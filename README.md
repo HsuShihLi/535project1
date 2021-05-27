@@ -8,8 +8,11 @@ ClassNumber:
 Team members:
 
 Jing Feng: jingfeng@csu.fullerton.edu
+
 Hsushi Li: hsushihli@csu.fullerton.edu
+
 Jingzhi Su: Jingzhi_Su@csu.fullerton.edu
+
 Description of the project:
 
 Briefly, we need to rewrite greeting cards by reusing most of the rext for another occasion. For example, a congratulation email on a new car may be similar to a congratulation email on a new house. One can copy and paste parts of the previous greeting to make it into a new greeting.
